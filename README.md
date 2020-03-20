@@ -13,8 +13,8 @@ mood or friends.
 
 ## Build 
 
-Clone project
+* Clone project
 
-Change user in Xcode
+* Change user in Xcode
 
-Run Life.xcodeproj file 
+* Run Life.xcodeproj file 
