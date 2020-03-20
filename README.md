@@ -15,6 +15,6 @@ mood or friends.
 
 * Clone project
 
-* Change user in Xcode
+* Change Apple user details in Xcode
 
 * Run Life.xcodeproj file 
