@@ -18,3 +18,6 @@ mood or friends.
 * Change Apple user details in Xcode
 
 * Run Life.xcodeproj file 
+
+
+Note: re-uploaded from local copy
