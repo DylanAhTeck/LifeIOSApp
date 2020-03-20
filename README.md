@@ -20,4 +20,4 @@ mood or friends.
 * Run Life.xcodeproj file 
 
 
-Note: re-uploaded from local copy
+Note: this git repository was re-uploaded based on local copy
